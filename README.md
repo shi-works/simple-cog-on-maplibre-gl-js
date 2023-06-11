@@ -1,3 +1,3 @@
-# cog-on-maplibre-gl-js
+# simple-cog-on-maplibre-gl-js
 ## Public Website
-https://shi-works.github.io/cog-on-maplibre-gl-js/
+ https://shi-works.github.io/simple-cog-on-maplibre-gl-js/
